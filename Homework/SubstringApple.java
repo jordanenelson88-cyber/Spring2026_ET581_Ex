@@ -7,6 +7,11 @@ public class SubstringApple{
         return text.substring(index); //now we return the substring starting at index from the original text 
     }
 
+      // Temporary main method to test out my coding script
+      public static void main(String[] args) {
+        String script = "I like Apple Pie";
+        System.out.println(substringFromApple(script));
+    }
 }
     
     
