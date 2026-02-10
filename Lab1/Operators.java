@@ -1,4 +1,4 @@
-public class Operators {
+public class Operators{
     public static void main(String[] args){
         int x = 1;
         double y = 2.9;
@@ -7,12 +7,12 @@ public class Operators {
         //int devision 
         System.out.println(5 / 2); // whole number 
         System.out.println(5 % 2);  //remainder 
-
+        
         x = 3;
-        System.out.println(x: "Post increament");
+        System.out.println("Post increament");
         System.out.println(x++);
         System.out.println(x);
-        System.out.println(x: "Pre increament");
+        System.out.println("Pre increament");
         System.out.println(++x);
         System.out.println(x);
 
