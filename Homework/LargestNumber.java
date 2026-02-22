@@ -4,6 +4,7 @@ public class LargestNumber {
     public static void main(String[] args){
        
         Scanner input = new Scanner(System.in);
+        
 
         int largest = 0; // stores the value of a (whole number) 
 
@@ -24,5 +25,5 @@ public class LargestNumber {
         }
         System.out.println("The largest number is " + largest); // after the loop is finished then print out the largest number
 
-    }
+    } 
 }
