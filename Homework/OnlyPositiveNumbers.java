@@ -16,7 +16,7 @@ public class OnlyPositiveNumbers {
                 continue; // then you would jump to the next loop
 
             }
-            count++; // only run if the number the user input is positive
+             count++; // only run if the number the user input is positive
             
         
         
