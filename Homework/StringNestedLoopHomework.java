@@ -49,4 +49,3 @@ public class StringNestedLoopHomework {
     }
 }
 
-1

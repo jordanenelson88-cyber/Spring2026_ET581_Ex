@@ -41,7 +41,4 @@ public class TwoDArrayHomework {
 
 
 
-1
-
-
 
