@@ -42,6 +42,7 @@ public class StringNestedLoopHomework {
         }
     }
 
+    
     public static void main(String[] args) {
         
         reverseEachWord("Hello World"); // this method will reverse each word

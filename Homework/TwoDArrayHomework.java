@@ -15,6 +15,7 @@ public class TwoDArrayHomework {
      
     }
     
+    
     // Question 2
     public static void sumOfColumns(int[][] arr) { // this method will find the sum of each column 
         for(int j = 0; j < arr[0].length; j++){ // we will run the loop for each column in the array and arr[0].length will tell us how many columns are there
